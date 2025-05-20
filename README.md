@@ -1,4 +1,4 @@
-🧪 Prueba Frontend - React
+## 🧪 Prueba Frontend - React
 📌 Requisitos Cumplidos
 
 ✅ Interfaz de usuario con al menos 3 componentes anidados.
@@ -12,7 +12,7 @@
 
 ✅ Implementación de un CRUD funcional utilizando los datos recibidos.
 
-🧱 Estructura del Proyecto
+## 🧱 Estructura del Proyecto
 
     src/
     ├── components/
@@ -24,7 +24,7 @@
     ├── App.jsx
     └── index.js
 
-🚀 Cómo Ejecutar el Proyecto
+## 🚀 Cómo Ejecutar el Proyecto
 Clonar el repositorio:
 
     git clone https://github.com/tu_usuario/nombre_del_repo.git
@@ -39,7 +39,7 @@ Clonar el repositorio:
     http://localhost:3000
 
 
-🧠 Consideraciones Técnicas
+## 🧠 Consideraciones Técnicas
 Se usó React 18 y Vite o Create React App (dependiendo de tu setup).
 
 Se usaron Hooks (useState, useEffect) para manejar estado y ciclo de vida.
@@ -49,14 +49,14 @@ Estilos aplicados con CSS puro / Tailwind / Bootstrap / Styled Components (segú
 Todas las operaciones del CRUD están simuladas, ya que la API de jsonplaceholder solo permite GET reales.
 
 
-📸 Capturas
+## 📸 Capturas
 
 
 ![image](https://github.com/user-attachments/assets/679fbe96-c6f3-4b8f-ae5e-daed1b2296de)
 
 
 
-🧾 Autor
+## 🧾 Autor
 Miguel
 
 GitHub: @punklodawn
