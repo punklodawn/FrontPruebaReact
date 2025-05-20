@@ -1,6 +1,5 @@
-🧪 Prueba Técnica Frontend - React
+🧪 Prueba Frontend - React
 📌 Requisitos Cumplidos
-Este proyecto fue desarrollado como parte de una prueba técnica. Se cumplieron los siguientes requerimientos:
 
 ✅ Interfaz de usuario con al menos 3 componentes anidados.
 
